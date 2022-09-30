@@ -8,6 +8,7 @@ cout << "Hello World. I'm Andrew Lu. Welcome to my website!";
 
 I'm currently a third-year Computer Engineering student at UCSD, currently seeking a software engineering internship for the Summer of 2023. 
 > Click [here](https://github.com/landrewu/user-page/blob/main/index.md#coding-and-projects) to learn more about my coding journey.
+
 When I'm not coding, I like to work out at the gym, play games, and follow the tech industry.
 At the moment, I have an overarching goal to work at one of the most prestigious companies in the world:
 ![Apple](https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png)
@@ -31,6 +32,6 @@ Projects I've Worked On (and my role within them):
 ## Future Plans and Goals
 
 Career goals:
-[ ] Get a software engineering internship
-[ ] Secure a full-time offer from a tech company
-[ ] Accept an offer from Apple for a software engineer position
+- [ ] Get a software engineering internship
+- [ ] Secure a full-time offer from a tech company
+- [ ] Accept an offer from Apple for a software engineer position
